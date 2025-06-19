@@ -34,6 +34,32 @@ This pilot project aims to help the business gain confidence in data-driven deci
 
 ---
 
+## 📈 Key Insights
+
+- 📊 **Strong Monthly Growth**: Shield Insurance achieved a **989.3M INR** total revenue with an **18.40% increase** over the previous period. Customer growth mirrored this with **26.8K customers**, up **18.28%** from the last month.
+
+- 📉 **Recent Daily Decline**: Despite overall growth, **daily revenue** and **daily customer acquisition** showed significant short-term dips of **-32.01%** and **-34.09%**, respectively—suggesting recent challenges in momentum.
+
+- 🏙️ **Top Cities by Revenue**:
+  - **Delhi NCR** led with **401.6M INR** in revenue and 11K customers  
+  - **Mumbai** and **Hyderabad** followed with **239.5M INR** and **160.5M INR**, respectively  
+  - These three cities accounted for ~80% of total revenue, making them key strategic regions
+
+- 🧑‍🤝‍🧑 **Age Group Performance**:
+  - The **31–40 age group** generated the highest revenue (**325M INR**) and customer count (10.7K)  
+  - Followed by the **41–50** and **65+** segments, both of which showed strong revenue-to-customer ratios  
+  - Younger demographics (18–30) contributed the least, signaling a possible gap in youth-targeted products
+
+- 🔎 **City & Demographic Insights** (e.g., Chennai):
+  - In Chennai, the **31–40 age group** again dominated with **34.2M INR**, confirming the consistency of this segment's impact  
+  - The **41–50 group** followed with **24.1M INR**, reinforcing the need for tailored products for mid-age customers
+
+- 📅 **Peak Revenue Month**:
+  - **March 2023** marked the highest spike in revenue at **264M INR**, more than 80% above the average  
+  - Indicates a successful campaign, policy release, or seasonal effect worth further investigation
+
+---
+
 ## 🛠️ Key Features
 
 ✅ **Interactive KPI Cards** – Total revenue, customer count, daily growth rates  
@@ -58,8 +84,6 @@ This pilot project aims to help the business gain confidence in data-driven deci
 ## 🤝 Let’s Connect
 
 Thank you for viewing this project! I welcome feedback, questions, or collaboration opportunities.  
-Feel free to reach out if you’d like to discuss the dashboard or any related analytics work.
+Feel free to reach out if you'd like to discuss the dashboard or any related analytics work.
 
 ---
-
-
