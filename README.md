@@ -87,6 +87,13 @@ This pilot project aims to help the business gain confidence in data-driven deci
 
 ---
 
+## 📂 Project Files
+
+- 🔗 [View the interactive Power BI Dashboard](https://app.powerbi.com/links/XBZWNo7Vm6?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare) – Hosted on Power BI Service
+
+
+---
+
 ## 🛠️ Key Features
 
 ✅ **Interactive KPI Cards** – Total revenue, customer count, daily growth rates  
@@ -96,14 +103,6 @@ This pilot project aims to help the business gain confidence in data-driven deci
 ✅ **Sales Channel Insights** – Understand performance across different modes  
 ✅ **Age Group Intelligence** – Link customer age to policy behavior and outcomes  
 ✅ **Modern, Clean Visual Design** – Built for clarity and ease of use
-
----
-
-## 📂 Project Files
-
-- `shield-insurance-dashboard.pbix` – Main Power BI file  
-- `sample-data.xlsx` – Sample dataset used for analysis  
-- `README.md` – Project documentation (this file)
 
 ---
 
