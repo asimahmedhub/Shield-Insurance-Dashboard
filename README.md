@@ -65,17 +65,17 @@ This pilot project aims to help the business gain confidence in data-driven deci
 
 ## 🖼️ Dashboard Preview
 
+### 🧭 Landing Page Summary  
+![Landing Page](landing-page.png)
+
 ### 📋 General View  
-![General View](General%20View.png)
+![General View](general-view.png)
 
 ### 🛒 Sales View  
-![Sales View](Sales%20View.png)
+![Sales View](sales-view.png)
 
 ### 👥 Age Group Analysis  
-![Age Group](Age%20Group.png)
-
-### 🧭 Landing Page Summary  
-![Landing Page](Landing%20Page.png)
+![Age Group](age-group.png)
 
 ---
 
@@ -93,8 +93,8 @@ This pilot project aims to help the business gain confidence in data-driven deci
 
 ## 📂 Project Files
 
-- `Shield_Insurance_Dashboard.pbix` – Main Power BI file  
-- `Sample_Data.xlsx` – Sample dataset used for analysis  
+- `shield-insurance-dashboard.pbix` – Main Power BI file  
+- `sample-data.xlsx` – Sample dataset used for analysis  
 - `README.md` – Project documentation (this file)
 
 ---
