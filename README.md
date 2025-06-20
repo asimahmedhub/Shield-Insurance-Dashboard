@@ -66,16 +66,24 @@ This pilot project aims to help the business gain confidence in data-driven deci
 ## 🖼️ Dashboard Preview
 
 ### 🧭 Landing Page Summary  
-[![Landing Page](Landing-Page.png)](Landing-Page.png)
+<a href="Landing-Page.png" target="_blank">
+  <img src="Landing-Page.png" alt="Landing Page Summary" width="1000"/>
+</a>
 
 ### 📋 General View  
-[![General View](General-View.png)](General-View.png)
+<a href="General-View.png" target="_blank">
+  <img src="General-View.png" alt="General View" width="1000"/>
+</a>
 
 ### 🛒 Sales View  
-[![Sales View](Sales-View.png)](Sales-View.png)
+<a href="Sales-View.png" target="_blank">
+  <img src="Sales-View.png" alt="Sales View" width="1000"/>
+</a>
 
 ### 👥 Age Group Analysis  
-[![Age Group](Age-Group.png)](Age-Group.png)
+<a href="Age-Group.png" target="_blank">
+  <img src="Age-Group.png" alt="Age Group Analysis" width="1000"/>
+</a>
 
 ---
 
