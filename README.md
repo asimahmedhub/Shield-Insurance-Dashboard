@@ -1,4 +1,4 @@
-# 📊 Shield Insurance Dashboard - Power BI Project
+# 📊 Shield Insurance Dashboard – Power BI Project
 
 ## 🧭 Introduction
 
@@ -36,27 +36,46 @@ This pilot project aims to help the business gain confidence in data-driven deci
 
 ## 📈 Key Insights
 
-- 📊 **Strong Monthly Growth**: Shield Insurance achieved a **989.3M INR** total revenue with an **18.40% increase** over the previous period. Customer growth mirrored this with **26.8K customers**, up **18.28%** from the last month.
+- 📊 **Revenue and Customer Growth**:  
+  Shield Insurance generated **₹989.3M** in revenue with **18.4% MoM growth** and acquired **26.8K customers** (+18.28%).
 
-- 📉 **Recent Daily Decline**: Despite overall growth, **daily revenue** and **daily customer acquisition** showed significant short-term dips of **-32.01%** and **-34.09%**, respectively—suggesting recent challenges in momentum.
+- 📉 **Short-Term Dip**:  
+  Daily metrics declined: **-32.01%** in daily revenue and **-34.09%** in customer acquisition, signaling short-term slowdown.
 
-- 🏙️ **Top Cities by Revenue**:
-  - **Delhi NCR** led with **401.6M INR** in revenue and 11K customers  
-  - **Mumbai** and **Hyderabad** followed with **239.5M INR** and **160.5M INR**, respectively  
-  - These three cities accounted for ~80% of total revenue, making them key strategic regions
+- 🏙️ **Top Regions**:  
+  - **Delhi NCR** contributed the most: ₹401.6M (11K customers)  
+  - Followed by **Mumbai** and **Hyderabad**  
+  - These three cities accounted for ~80% of total revenue.
 
-- 🧑‍🤝‍🧑 **Age Group Performance**:
-  - The **31–40 age group** generated the highest revenue (**325M INR**) and customer count (10.7K)  
-  - Followed by the **41–50** and **65+** segments, both of which showed strong revenue-to-customer ratios  
-  - Younger demographics (18–30) contributed the least, signaling a possible gap in youth-targeted products
+- 🧑‍🤝‍🧑 **Age Segment Impact**:  
+  - **31–40 age group** led with ₹325M revenue and 10.7K customers  
+  - **41–50** and **65+** groups showed strong revenue-to-customer ratios  
+  - Youth (18–30) segments underperformed—indicating growth opportunity.
 
-- 🔎 **City & Demographic Insights** (e.g., Chennai):
-  - In Chennai, the **31–40 age group** again dominated with **34.2M INR**, confirming the consistency of this segment's impact  
-  - The **41–50 group** followed with **24.1M INR**, reinforcing the need for tailored products for mid-age customers
+- 🌐 **Sales Channel Performance**:  
+  - **Offline-Agent** dominated with **55%** of customers and ₹550.8M in revenue  
+  - **Online channels** (App + Website) showed consistent growth post-Feb 2023  
+  - Offline-Direct lagged behind in both revenue and engagement.
 
-- 📅 **Peak Revenue Month**:
-  - **March 2023** marked the highest spike in revenue at **264M INR**, more than 80% above the average  
-  - Indicates a successful campaign, policy release, or seasonal effect worth further investigation
+- 📅 **Monthly Trend Peak**:  
+  - **March 2023** marked a peak across all KPIs with revenue hitting ₹264M  
+  - Likely tied to a marketing campaign or seasonal spike.
+
+---
+
+## 🖼️ Dashboard Preview
+
+### 📋 General Overview  
+![General Overview](Screenshots/general-overview.png)
+
+### 🛒 Sales Mode Analysis  
+![Sales Mode](Screenshots/sales-mode.png)
+
+### 👥 Age Group Insights  
+![Age Group](Screenshots/age-group.png)
+
+### 🧭 Project Summary Page  
+![Summary](Screenshots/summary.png)
 
 ---
 
@@ -76,7 +95,7 @@ This pilot project aims to help the business gain confidence in data-driven deci
 
 - `Shield_Insurance_Dashboard.pbix` – Main Power BI file  
 - `Sample_Data.xlsx` – Sample dataset used for analysis  
-- `Screenshots/` – Visual mockups of dashboard pages (optional)  
+- `Screenshots/` – Visual mockups of dashboard pages  
 - `README.md` – Project documentation (this file)
 
 ---
